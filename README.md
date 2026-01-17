@@ -1,4 +1,4 @@
-<h1 align="center">Konquest | FNIS Owner</h1>
+<h1 align="center">Kosovar | LCP & CrowSuite</h1>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=konquxst&style=flat-square&color=0abde3" alt="visiteurs"/>
@@ -9,11 +9,11 @@
 
 ### 👨‍💻 À propos de moi
 
-- 🔭 Je travaille sur : **FNIS**
-- 🏴 Discord du Projet : **https://discord.gg/su7Ts3PeVP**
-- 🌱 J'apprends : **Pentest**
-- 📫 Me contacter : **Discord : @8z91**
-- 📧 Telegram : **https://t.me/konquxst**
+- 🔭 Je travaille sur : **CrowSuite & LCP**
+- 🏴 Discord du Projet : **https://discord.gg/lcp**
+- 🌱 J'apprends : **Cryptologie**
+- 📫 Me contacter : **Discord : @perqusition**
+- 📧 Telegram : **https://t.me/kosovxr**
 
 ---
 
