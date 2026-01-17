@@ -1,8 +1,8 @@
 <h1 align="center">Kosovar | LCP & CrowSuite</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=konquxst&style=flat-square&color=0abde3" alt="visiteurs"/>
-  <img src="https://img.shields.io/github/followers/konquxst?style=flat-square&color=1dd1a1" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=Kosovxr&style=flat-square&color=0abde3" alt="visiteurs"/>
+  <img src="https://img.shields.io/github/followers/Kosovxr?style=flat-square&color=1dd1a1" alt="followers"/>
 </p>
 
 ---
@@ -36,8 +36,8 @@
 ### 📈 Stats GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=konquxst&show_icons=true&theme=tokyonight&hide=issues" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=konquxst&layout=compact&theme=tokyonight" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Kosovxr&show_icons=true&theme=tokyonight&hide=issues" height="150" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kosovxr&layout=compact&theme=tokyonight" height="150" />
 </p>
 
 ---
